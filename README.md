@@ -1,5 +1,7 @@
 # Temperature-Regulation-with-PID-Control
 
+- Read PDF file, It's the main file.
+  
 - This is my instruction of how to implement a PID control system to control temperature.
 
 - Due to its modest scale, this project is particularly suitable for students and novices seeking to gain proficiency in PID control methodologies.
